@@ -1,0 +1,353 @@
+/* BODY */
+/* Comentariu: Se definește stilul pentru elementul cu ID-ul "chaseatlantic-body", care face referire probabil la corpul paginii. */
+#chaseatlantic-body{
+	background-color: #343330;
+	color: #F3F3F3;
+	font-size: 18px;
+	height: 100vh;
+	font-family: 'Varela Round', sans-serif;
+}
+/* END OF BODY */
+/* HEADLINES */
+/* Comentariu: Stilizarea titlurilor de tip h1, h2 și h3, utilizând fontul 'Black Han Sans' și alte stiluri aferente. */
+h1,h2,h3{
+	font-family: 'Black Han Sans', sans-serif;
+}
+/* END OF HEADLINES */
+/* HEADINGS */
+/* Comentariu: Se definește stilul pentru elementele cu clasa "fabtheme-headings", elemente de antet. */
+.fabtheme-headings{
+	background-color: #343330;
+	color: #F3F3F3;
+    border-right: 40px solid #4D5359;
+	word-wrap: break-word;
+}
+/* END OF HEADINGS */
+/* ABOUT */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Despre". */
+.fabtheme-about{
+	background-color: #684551;
+	color: #F3F3F3;
+	border-left: 40px solid #1B1524;
+}
+/* END OF ABOUT */
+/* SERVICES */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Muzica". */
+.fabtheme-services-1{
+	background-color: #2E4057;
+	color: #F3F3F3;
+	border-right: 40px solid #0D1821;
+}
+.fabtheme-services-2{
+	background-color: #FCE694;
+	color: #000000;
+	border: 0;
+	border-radius: 0;
+}
+/* END OF SERVICES */
+/* COUNT */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Aprecieri". */
+.fabtheme-count{
+	background-color: #343330;
+	color: #F3F3F3;
+    border-left: 40px solid #4D5359;
+	word-wrap: break-word;
+}
+/* END OF COUNT */
+/* REVIEWS */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Recenzii". */
+.fabtheme-reviews-1{
+	background-color: #343330;
+	color: #F3F3F3;
+    border-left: 40px solid #4D5359;
+}
+.fabtheme-reviews-2{
+	color: #F3F3F3;
+	padding: 0;
+	margin: 0;
+}
+.fabtheme-reviews-3{
+	color: #CFDBD5;
+}
+#reviews .fabtheme-reviews-img{
+    width: 120px;
+    height: 80px;
+}
+/* END OF REVIEWS */
+/* TEAM */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Team". */
+.fabtheme-team-1{
+	background-color: #1F5673;
+	color: #F3F3F3;
+	border-right: 40px solid #60463B;
+}
+#team .fabtheme-team-2{
+	background-color: #FFFBFC;
+	color: #000000;
+	border: 0;
+	border-radius: 0;
+}
+/* END OF TEAM */
+/* BLOG */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Blog". */
+.fabtheme-blog-1{
+	background-color: #041F1E;
+	color: #F3F3F3;
+	border-left: 40px solid #702632;
+}
+.fabtheme-blog-2{
+	background-color: #041F1E;
+	color: #F3F3F3;
+	border: 0;
+	border-radius: 0;
+}
+/* END OF BLOG */
+/* VIDEO */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Video". */
+.fabtheme-video{
+    height: auto;
+}
+/* END OF VIDEO */
+/* CONTACT */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Contact". */
+.fabtheme-contact{
+	background-color: #5E503F;
+	color: #F3F3F3;
+	border-left: 40px solid #432E36;
+}
+/* END OF CONTACT */
+/* NEWSLETTER */
+/* Comentariu: Aceasta este o secțiune pentru stilurile asociate secțiunii "Buletin informativ". */
+.fabtheme-newsletter{
+	background-color: #343330;
+	color: #F3F3F3;
+	border-right: 40px solid #4D5359;
+}
+/* END OF NEWSLETTER */
+/* PARALLAX */
+.fabtheme-parallax-1{
+	height: 100%;
+    background-image: url("https://i.pinimg.com/originals/fc/32/b3/fc32b372e0470f9c07740acb75c44c45.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+.fabtheme-parallax-2{
+	height: 100%;
+    background-image: url("https://i.pinimg.com/originals/fc/32/b3/fc32b372e0470f9c07740acb75c44c45.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+.fabtheme-parallax-3{
+	height: 100%;
+    background-image: url("https://i.pinimg.com/originals/fc/32/b3/fc32b372e0470f9c07740acb75c44c45.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+.fabtheme-parallax-4{
+	height: 100%;
+    background-image: url("https://i.pinimg.com/originals/fc/32/b3/fc32b372e0470f9c07740acb75c44c45.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+/* END OF PARALLAX */
+/* NAVIGATION */
+#chaseatlantic-navbar{
+	background-color: #9C0D38;
+	color: #F3F3F3;
+}
+#chaseatlantic-navbar.solid{
+	background-color: #9C0D38;
+	color: #F3F3F3;
+	transition-delay: 0.2s;
+	transition-property: all;
+	transition-timing-function: ease-in-out;
+}
+#chaseatlantic-navbar .fabtheme-nav-link{
+	color: #F3F3F3;
+}
+#chaseatlantic-navbar .fabtheme-nav-link:hover{
+	color: #DBDBDB;
+}
+/* END OF NAVIGATION */
+/* LINK SHOW */
+/* Comentariu: Aceasta este o clasă CSS utilizată pentru a afișa link-urile la o distanță de 60px de partea de sus a paginii,
+   dar să mențină conținutul paginii sub acestea. */
+.fabtheme-link-show{
+    padding-top: 60px;
+    margin-top: -60px;
+}
+/* END OF LINK SHOW */
+/* LINKS */
+.fabtheme-link-1{
+	color: #343330;
+}
+.fabtheme-link-1:hover{
+	color: #1F5673;
+}
+.fabtheme-link-2{
+	color: #F3F3F3;
+}
+.fabtheme-link-2:hover{
+	color: #E8F7EE;
+}
+.fabtheme-link-3{
+	color: #F3F3F3;
+}
+.fabtheme-link-3:hover{
+	color: #E3EDE9;
+	text-decoration: none;
+}
+/* END OF LINKS */
+/* TAB */
+/* Se aplică stilurile pentru link-urile din tabloul de navigare */
+.fabtheme-tab .nav-link, .fabtheme-tab .show>.nav-link{
+	color: #F3F3F3;
+	border-radius: 0;
+}
+/* Stilurile pentru link-urile din tabloul de navigare la interacțiunea hover */
+.fabtheme-tab .nav-link:hover, .fabtheme-tab .show>.nav-link{
+	color: #DBDBDB;
+	border-radius: 0;
+}
+/* Stilurile pentru link-ul activ din tabloul de navigare */
+.fabtheme-tab .nav-link.active, .fabtheme-tab .show>.nav-link{
+	background-color: #334E58;
+	color: #F3F3F3;
+	border-radius: 0;
+}
+/* END OF TAB */
+/* BUTTON */
+.fabtheme-button{
+	background-color: #B3001B;
+	color: #F3F3F3;
+	border-radius: 0;
+}
+.fabtheme-button:hover{
+	background-color: #1F0318;
+	color: #F3F3F3;
+}
+/* END OF BUTTON */
+/* CARD COLUMNS */
+
+/* Comentariu: Acest set de reguli CSS controlează numărul de coloane pentru cărțile de imagini, în funcție de dimensiunea ecranului. */
+@media (min-width: 576px){
+    /* Comentariu: Când ecranul are o lățime minimă de 576px, se afișează o singură coloană de cărți de imagini. */
+    .fabtheme-card-columns{
+        column-count: 1;
+    }
+	/* Comentariu: De asemenea, când ecranul are o lățime minimă de 576px, pentru un anumit tip de container, se afișează tot o singură coloană de cărți de imagini. */
+	.card-count>.fabtheme-card-columns{
+        column-count: 1;
+    }
+}
+@media (min-width: 768px){
+    /* Comentariu: Când ecranul are o lățime minimă de 768px, se afișează tot o singură coloană de cărți de imagini. */
+    .fabtheme-card-columns{
+        column-count: 1;
+    }
+	/* Comentariu: Pentru un alt tip de container, se menține afișarea într-o singură coloană la lățimi mai mari de 768px. */
+	.card-count>.fabtheme-card-columns{
+        column-count: 1;
+    }
+}
+@media (min-width: 992px){
+    /* Comentariu: Când ecranul are o lățime minimă de 992px, se afișează trei coloane de cărți de imagini. */
+    .fabtheme-card-columns{
+        column-count: 3;
+    }
+	/* Comentariu: Pentru un anumit tip de container, se afișează patru coloane de cărți de imagini la lățimi mai mari de 992px. */
+	.card-count>.fabtheme-card-columns{
+        column-count: 4;
+    }
+}
+@media (min-width: 1200px){
+    /* Comentariu: Când ecranul are o lățime minimă de 1200px, se afișează tot trei coloane de cărți de imagini. */
+    .fabtheme-card-columns{
+        column-count: 3;
+    }
+	/* Comentariu: Pentru un anumit tip de container, se menține afișarea în patru coloane de cărți de imagini la lățimi mai mari de 1200px. */
+	.card-count>.fabtheme-card-columns{
+        column-count: 4;
+    }
+}
+/* END OF CARD COLUMNS */
+
+/* IMAGES ZOOM IN */
+/* Comentariu: Se aplică un efect de zoom pe imagini atunci când utilizatorul plasează cursorul peste acestea */
+.fabtheme-zoom img {
+	width: 100%;
+	height: auto;
+	transition: all 0.5s ease-in-out;
+}
+.fabtheme-zoom:hover img {
+    transform: scale(1.1); 
+}
+/* END OF IMAGES ZOOM IN */
+/* SCROLL TOP */
+/* Comentariu: Stilurile pentru butonul "scroll top" care apare atunci când utilizatorul derulează pagina */
+.fabtheme-scrolltop{
+	display: none;
+	width: 100%;
+	margin: 0 auto;
+	position: fixed;
+	bottom: 20px;
+	right: 10px;
+}
+.fabtheme-scroll{
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	background-color: #c0b1a8;
+	padding: 20px;
+	text-align: center;
+	margin: 0 0 0 0;
+	cursor: pointer;
+	transition: 0.5s;
+}
+.fabtheme-scroll:hover{
+	transition: 0.5s;	
+}
+.fabtheme-scroll .fas{
+	font-size: 30px;
+	color: #000000;
+	margin-top: -5px;
+	margin-left: 1px;
+	transition: 0.5s;
+}
+/* END OF SCROLL TOP */
+/* INPUT */
+/* Comentariu: Stilurile pentru intrările de input */
+.fabtheme-field input{
+	border: 0;
+	border-radius: 0;
+}
+/* END OF INPUT */
+/* TEXTAREA */
+/* Comentariu: Stilizarea câmpurilor de text pentru textarea */
+.fabtheme-field textarea{
+	border: 0;
+	border-radius: 0;
+}
+/* END OF TEXTAREA */
+/* HEIGHT OF ALL ELEMENTS */
+/* Comentariu: Definirea unei înălțimi minime pentru toate elementele */
+*{
+    min-height: 0.01px;
+}
+/* END OF HEIGHT OF ALL ELEMENTS */
+/* FOOTER */
+/* Comentariu: Stilizarea footer-ului */
+#fabtheme-footer{
+	background-color: #121420;
+	color: #F3F3F3;
+}
+/* END OF FOOTER */
+/* END OF CUSTOM CSS */
